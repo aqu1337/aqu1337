@@ -7,14 +7,14 @@
 ┌──(aqu@root)-[~/]
 └─$ cat aqu.py
 
-class Ayhuuu:
+class aqu:
 
 def  __social__(self):
  self.gtb = "https://github.com/aquar1us1337"
  self.dsc = "aqu#1337"
  self.tlg = "https://t.me/aqu1337"
   
- ┌──(Ayhuuu@root)-[~/]
+ ┌──(aqu@root)-[~/]
  └─$
 ```
 <p align="center"><img src="https://count.getloli.com/get/@:aquar1us1337" alt=":aqu1337" /></p>
