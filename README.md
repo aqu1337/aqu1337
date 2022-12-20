@@ -17,6 +17,7 @@ def  __social__(self):
  ┌──(aqu@root)-[~/]
  └─$
 ```
+<h1>PROFILE VIEWS</h1>
 <p align="center"><img src="https://count.getloli.com/get/@:aquar1us1337" alt=":aqu1337" /></p>
 
  
